@@ -1,0 +1,11 @@
+#gitignore
+#tmp dir exclude
+tmp/
+
+#old and backup suff files  exclude
+*_old
+*_backup
+
+# thumbs.sb and DS_Store exclude
+Thumbs.db
+.DS_Store
